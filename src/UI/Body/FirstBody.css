@@ -1,0 +1,34 @@
+.FirstBody {
+  background-image: linear-gradient(#edf4f7, white);
+}
+.topMargin {
+  padding-top: 150px;
+  padding-bottom: 200px;
+}
+.FirstBody_h1_1 {
+  color: #500ad2;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.FirstBody_h1_2 {
+  font-weight: 700;
+  font-size: 45px;
+}
+.FirstBody_p {
+  font-size: 18px;
+  color: black;
+}
+
+.FirstBody_btn {
+  margin-right: 40px !important;
+  font-size: 16px !important;
+  font-weight: bold;
+  padding: 15px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+}
+
+/* .hoverCl:hover {
+  padding-right: 5px !important;
+} */

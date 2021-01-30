@@ -1,0 +1,8 @@
+.footerstick {
+  padding: 16px;
+  width: 100%;
+  background-color: #500ad2;
+  position: fixed;
+  color: white;
+  z-index: 99999;
+}

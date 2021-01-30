@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import MenuAppBar from "./Component/Appbar/MenuAppBar";
+import Footer from "./Component/Footer/Footer";
+import FirstBody from "./UI/Body/FirstBody";
+import FourthBody from "./UI/Body/FourthBody/FourthBody";
+import SecondBody from "./UI/Body/SecondBody/SecondBody";
+import ThirdBody from "./UI/Body/ThirdBody/ThirdBody";
+import BodyMainSlider from "./UI/BodyMainSlider/BodyMainSlider";
+import MainSecBody from "./UI/MainSecBody/MainSecBody";
+import SlidingCompo from "./UI/SlidingCompo/SlidingCompo";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MenuAppBar />
+      <FirstBody />
+      <SlidingCompo />
+      <SecondBody />
+      <ThirdBody />
+      <FourthBody />
+      <MainSecBody />
+      <Footer />
     </div>
   );
 }
