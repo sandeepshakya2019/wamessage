@@ -10,22 +10,22 @@ function FooterFour() {
         </p>
         <ul>
           <li>
-            <a href="">Customer</a>
+            <a href="/">Customer</a>
           </li>
           <li>
-            <a href="">Partners</a>
+            <a href="/">Partners</a>
           </li>
           <li>
-            <a href="">Careers</a>
+            <a href="/">Careers</a>
           </li>
           <li>
-            <a href="">Press</a>
+            <a href="/">Press</a>
           </li>
           <li>
-            <a href="">Terms</a>
+            <a href="/">Terms</a>
           </li>
           <li>
-            <a href="">Privacy</a>
+            <a href="/">Privacy</a>
           </li>
         </ul>
       </div>

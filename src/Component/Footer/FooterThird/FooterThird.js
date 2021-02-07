@@ -10,22 +10,22 @@ function FooterThird() {
         </p>
         <ul>
           <li>
-            <a href="">Blog</a>
+            <a href="/">Blog</a>
           </li>
           <li>
-            <a href="">Compare Payment Gateways</a>
+            <a href="/">Compare Payment Gateways</a>
           </li>
           <li>
-            <a href="">Tackling Payment Failures</a>
+            <a href="/">Tackling Payment Failures</a>
           </li>
           <li>
-            <a href="">Enterprise Billing Guide</a>
+            <a href="/">Enterprise Billing Guide</a>
           </li>
           <li>
-            <a href="">Webinars</a>
+            <a href="/">Webinars</a>
           </li>
           <li>
-            <a href="">Glossaries</a>
+            <a href="/">Glossaries</a>
           </li>
         </ul>
       </div>

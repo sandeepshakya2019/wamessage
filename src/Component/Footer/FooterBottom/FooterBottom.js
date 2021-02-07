@@ -12,6 +12,7 @@ function FooterBottom() {
           <img
             src="https://www.chargebee.com/static/resources/brand/chargebee-logo-black.svg"
             style={{ width: "20%" }}
+            alt="footer"
           />
         </div>
         <div className="col">

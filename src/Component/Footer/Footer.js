@@ -4,7 +4,7 @@ import FooterBottom from "./FooterBottom/FooterBottom";
 import FooterFirst from "./FooterFirst/FooterFirst";
 import FooterFour from "./FooterFour/FooterFour";
 import FooterSecond from "./FooterSecond/FooterSecond";
-import FooterStick from "./FooterSticky/FooterStick";
+// import FooterStick from "./FooterSticky/FooterStick";
 import FooterThird from "./FooterThird/FooterThird";
 import Button from "@material-ui/core/Button";
 import ArrowForwardIcon from "@material-ui/icons/ArrowForward";

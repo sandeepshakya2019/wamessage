@@ -10,25 +10,25 @@ function FooterSecond() {
         </p>
         <ul>
           <li>
-            <a href="">Security</a>
+            <a href="/">Security</a>
           </li>
           <li>
-            <a href="">FAQs</a>
+            <a href="/">FAQs</a>
           </li>
           <li>
-            <a href="">Status</a>
+            <a href="/">Status</a>
           </li>
           <li>
-            <a href="">Product Documentation</a>
+            <a href="/">Product Documentation</a>
           </li>
           <li>
-            <a href="">API Documentation</a>
+            <a href="/">API Documentation</a>
           </li>
           <li>
-            <a href="">Support Payment Gateway</a>
+            <a href="/">Support Payment Gateway</a>
           </li>
           <li>
-            <a href="">Sitemap</a>
+            <a href="/">Sitemap</a>
           </li>
         </ul>
       </div>

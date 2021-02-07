@@ -25,7 +25,9 @@ function FirstBody() {
             className="FirstBody_btn"
             style={{ backgroundColor: "#5e24c8", color: "white" }}
           >
-            Schedule a Demo <ArrowForwardIcon />
+            <span className="bodybuttonhover">
+              Schedule a Demo <ArrowForwardIcon className="arrowhover" />
+            </span>
           </Button>
           <Button
             variant="contained"

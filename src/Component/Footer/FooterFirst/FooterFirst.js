@@ -10,25 +10,25 @@ function FooterFirst() {
         </p>
         <ul>
           <li>
-            <a href="">Subscription Management</a>
+            <a href="/">Subscription Management</a>
           </li>
           <li>
-            <a href="">Recurring Billing and Invoicing</a>
+            <a href="/">Recurring Billing and Invoicing</a>
           </li>
           <li>
-            <a href="">Recurring Payments</a>
+            <a href="/">Recurring Payments</a>
           </li>
           <li>
-            <a href="">Accounting and Taxes</a>
+            <a href="/">Accounting and Taxes</a>
           </li>
           <li>
-            <a href="">SaaS Reporting</a>
+            <a href="/">SaaS Reporting</a>
           </li>
           <li>
-            <a href="">Enterprise Billing</a>
+            <a href="/">Enterprise Billing</a>
           </li>
           <li>
-            <a href="">Integration</a>
+            <a href="/">Integration</a>
           </li>
         </ul>
       </div>
