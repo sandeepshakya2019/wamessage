@@ -7,9 +7,7 @@ function Logout(props) {
   useEffect(() => {
     dispatch({
       type: "LOGOUT",
-      payload: {
-        user: null,
-      },
+      payload: null,
     });
     window.localStorage.removeItem("email");
     window.localStorage.removeItem("name");

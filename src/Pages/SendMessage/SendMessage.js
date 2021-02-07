@@ -4,6 +4,7 @@ import axios from "axios";
 
 function SendMessage(props) {
   const [msg, setmsg] = useState("");
+  // const []
   const sendMsg = (e) => {
     e.preventDefault();
     axios
@@ -15,6 +16,9 @@ function SendMessage(props) {
       .catch((err) => console.log(err));
     // console.log("dfljhsjk");
     // props.history.push("/");
+    setTimeout(() => {
+      props.history.push("/");
+    }, 2000);
   };
   return (
     <div className="container">

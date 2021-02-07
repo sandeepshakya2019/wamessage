@@ -60,14 +60,14 @@ function Register(props) {
         axios
           .post("http://localhost:8000/user", { user: senduser })
           .then((res) => {
-            console.log(res);
+            // console.log(res);
+            props.history.push("/");
           })
           .catch((err) => {
-            console.log(err);
+            // console.log(err);
           });
-        props.history.push("/");
       })
-      .catch((err) => console.log(err.message));
+      .catch((error) => setprob(error.response.data.error.message));
   };
   let p = "";
   if (prob) {

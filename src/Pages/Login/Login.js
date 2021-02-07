@@ -35,7 +35,8 @@ function Login(props) {
         authData
       )
       .then((res) => {
-        // console.log(res.data.idToken);
+        // console.log("jkhjb");
+        // console.log("jhdf", res);
         const user = res.data;
         // console.log(user);
         let nameuser = user.displayName
@@ -56,7 +57,7 @@ function Login(props) {
 
         props.history.push("/");
       })
-      .catch((err) => console.log("error", err.message));
+      .catch((error) => setprob(error.response.data.error.message));
   };
   let p = "";
   if (prob) {
